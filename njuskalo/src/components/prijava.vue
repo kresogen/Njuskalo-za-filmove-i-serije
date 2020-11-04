@@ -12,7 +12,12 @@
 </template>
 
 <script>
-export default { }
+export default {
+      name: 'prijava',
+  props: {
+    msg: String
+  }
+}
 
 </script>
 
