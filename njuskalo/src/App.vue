@@ -7,7 +7,7 @@
 
 <script>
 
-import prijava from './components/prijava.vue'
+import HelloWorld from './components/prijava.vue'
 
 export default {
   name: 'App',
